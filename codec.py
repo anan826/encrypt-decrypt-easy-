@@ -32,3 +32,4 @@ while True:
             text = input("Enter the text: ")
     else:
         print("選擇錯誤請確認是否為大寫")
+123
