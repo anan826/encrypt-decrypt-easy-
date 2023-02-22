@@ -20,8 +20,12 @@
 
 ### 但用著就覺得這個網路上都找的到，到不如自己做一個試試看。
 
+### 這個是一開始的加密方式，也就是使用網頁的轉換器工具
+
 ![](p2.png)
 https://www.rapidtables.org/zh-TW/convert/number/hex-to-ascii.html
+
+### 網址在這
 
 # 過程
 
